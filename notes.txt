@@ -1,22 +1,3 @@
-﻿So, we can do this multiple ways:
-
-1. We can create an SqlClient and query the 
-table that way.  That's more code, of course.
-
-2. We can create an SQL Bulk Copy and insert the
-data into our table.
-
-3. We can use Dapper ORM as a tool.
-
-Each way has its own pros/cons.
-
-We'll use the 2nd way first.
-
-Our table will have the same form as our datamodel, with a couple of 
-slight modifications...
-
-Did you see the connection string?
-
-You missed it!
-
-Let's show it again:
+﻿THE
+END
+(FOR NOW...)

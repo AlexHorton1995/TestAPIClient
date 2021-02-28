@@ -13,7 +13,9 @@ namespace TestAPIClient
     internal class Program : IDisposable
     {
         internal static SqlConnection SqlConn { get; set; }
-        internal const string ConnString = "Data Source=DESKTOP-VBBHMUF;Initial Catalog=CSharpFundamentals;Integrated Security=True";
+
+        //I showed you how to get the connection string here :)
+        internal const string ConnString = "";
 
         internal static DataTable DTable { get; set; }
 
